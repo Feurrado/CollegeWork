@@ -1,2 +1,3 @@
 C:\Users\aluno.laboratorio\source\repos\Test01\x64\Debug\Test01.exe
 C:\Users\aluno.laboratorio\source\repos\Test01 - Copia\x64\Debug\Test01.exe
+C:\Users\aluno.laboratorio\Desktop\Test05\x64\Debug\Test01.exe

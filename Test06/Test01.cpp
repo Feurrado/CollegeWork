@@ -13,6 +13,7 @@
 int main()
 {
     unsigned int numero, fatorial = 1;
+    std::cout << "Digite um numero: " << std::endl;
     std::cin >> numero;
     for (int val = 1; val <= numero; ++val)
     {

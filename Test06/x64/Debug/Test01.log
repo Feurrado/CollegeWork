@@ -1,2 +1,4 @@
 ﻿  Test01.cpp
-  Test01.vcxproj -> C:\Users\aluno.laboratorio\source\repos\Test01\x64\Debug\Test01.exe
+C:\Users\aluno.laboratorio\Desktop\Test06\Test01.cpp(18,27): warning C4018: '<=': incompatibilidade de signed/unsigned
+  LINK : C:\Users\aluno.laboratorio\Desktop\Test06\x64\Debug\Test01.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+  Test01.vcxproj -> C:\Users\aluno.laboratorio\Desktop\Test06\x64\Debug\Test01.exe
